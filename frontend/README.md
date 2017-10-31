@@ -30,6 +30,7 @@ npm install -g yo gulp bower
 
 
 ##### Install required dependencies:
+First go the frontend directory where the bower.js is present.
 ```
 npm install
 bower install
